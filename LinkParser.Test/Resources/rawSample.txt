@@ -1,0 +1,22 @@
+"email@example.com"
+first'name.lastname@example.com
+email@subdomain-example.com
+firstname+lastname@example.com
+test@2s-company.com
+email@123.123.123.123
+1234567890@example.com
+email@example-one.com
+_______@example.com
+email@example.name
+email@example.museum @mail.ru
+email@example.co.jp
+firstname-lastname@example.com
+hhhhhhhhhhhhh www.google.com.ua hhhhhhhhhhhh
+https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore#msbuild-integrated-restore
+https://www.intertech.com/Blog/c-sharp-tutorial-understanding-c-events/
+http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/java/math/BigDecimal.java#BigDecimal.doubleValue%28%29
+ftp://ftp.funet.fi/pub/standards/RFC/rfc959.txt
+http://MVSXX.COMPANY.COM:04445/CICSPLEXSM//JSMITH/MENU/OURHOME?CONTEXT=FRED&SCOPE=FRED
+http://MVSXX.COMPANY.COM:04445/CICSPLEXSM//JSMITH/VIEW/OURLOCTRAN?CONTEXT=FRED&SCOPE=FRED&A_TRANID=PAY*
+https://msdn.microsoft.com/ru-ru/library/system.io.file.exists(v=vs.110).aspx
+<a href="https://www.intertech.com/Blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.intertech.com%2FBlog%2Fc-sharp-tutorial-understanding-c-events%2F&#038;format=xml" />
